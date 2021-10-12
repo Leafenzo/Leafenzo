@@ -1,4 +1,4 @@
 - I’m @Leafenzo (Lorenzo/Enzo)
-- Head of Oris Interactive, and the lead developer on Tundralare, Tarsal, and The URSA Terrain System.
+- Developer of Tundralare, and of the URSA Terrain System. (User Reinforced Surflet Automation)
 
 - 📫 oris.interactive.contact@gmail.com
