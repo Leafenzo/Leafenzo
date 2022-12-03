@@ -1,3 +1,2 @@
-- Developer on Tundralare, MWVNU, and the URSA Terrain System.
-
-- 📫 oris.interactive.contact@gmail.com
+- currently working on personal projects (MWVNU, Tundralare, URSA System)
+- oris.interactive.contact@gmail.com
