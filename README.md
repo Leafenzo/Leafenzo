@@ -1,2 +1,3 @@
-- currently working on personal projects (MWVNU, Tundralare, URSA System)
-- oris.interactive.contact@gmail.com
+Leah Lycorea
+- learning how to mod Minecraft and write with Java :D
+- also currently working on some personal projects (MWVNU, Tundralare, URSA System)
