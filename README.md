@@ -1,3 +1,5 @@
 Leah Lycorea
-- learning how to mod Minecraft and write with Java :D
-- also currently working on some personal projects (MWVNU, Tundralare, URSA System)
+
+- It's safe to say I'm a pretty proficient Minecraft modder at this point
+
+- Java and Bash dev with three years of an experience and a focus on collaborative work
